@@ -1,0 +1,8 @@
+# Install Nodesource APT repository
+
+DISTRO="$(lsb_release -scu || lsb_release -sc)"
+
+echo "deb https://deb.nodesource.com/node_8.x $DISTRO main" > /etc/apt/sources.list.d/nodesource.list
+echo "deb-src https://deb.nodesource.com/node_8.x $DISTRO main" >> /etc/apt/sources.list.d/nodesource.list
+
+apt-get update

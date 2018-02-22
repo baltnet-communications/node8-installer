@@ -1,0 +1,5 @@
+*.log
+*-stamp
+*.substvars
+files
+node8-installer/
