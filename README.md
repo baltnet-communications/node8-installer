@@ -6,4 +6,4 @@ It executes same steps as specified in the official [NodeSource setup guide:](ht
 2. Inserts NodeSource package signing key as a key ring to `/etc/apt/trusted.gpg.d`
 
 # Installation
-Please go to http://pkg.baltnet.net for instructions how to configure Baltnet repository and install this package.
+Please visit http://pkg.baltnet.net for instructions how to configure Baltnet repository and install this package.
