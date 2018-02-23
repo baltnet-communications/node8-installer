@@ -1,5 +1,5 @@
-node8-installer (1.0.0) unstable; urgency=medium
+node8-installer (1.0.0) stable; urgency=medium
 
   * Initial release
 
- -- The Ranger <ranger@risk.ee>  Thu, 22 Feb 2018 20:18:19 +0200
+ -- The Ranger <ranger@risk.ee>  Fri, 23 Feb 2018 16:59:29 +0200
