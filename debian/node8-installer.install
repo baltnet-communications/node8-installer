@@ -1,1 +1,2 @@
 src/nodesource.gpg etc/apt/trusted.gpg.d/
+src/nodesource.list etc/apt/sources.list.d/

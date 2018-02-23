@@ -1,3 +1,0 @@
-# Remove NodeJS repository
-
-rm -f /etc/apt/sources.list.d/nodesource.list
